@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="error_message">Error - failed to download the data...</string>
+
+    <string name="menu_ordering">Sort Order</string>
+    <string name="order_popular">Most Popular</string>
+    <string name="order_top_rated">Top Rated</string>
+
+    <string name="vote_average">Vote average:</string>
+    <string name="overview">Overview:</string>
+</resources>
